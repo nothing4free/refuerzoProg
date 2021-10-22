@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int main() {
+void main() {
     // variables
     int numero;
 
@@ -23,6 +23,4 @@ int main() {
     } else { // si no cumple con el enunciado, entonces mostramos un mensaje de error.
         printf("ERROR: introduzca un numero entero distinto de 0.\n");
     }
-    
-    return 0;
 }

@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main() {
+main() {
 
     // variables
     int lado1;
@@ -26,7 +26,6 @@ int main() {
         } else {
             printf("El triangulo es isosceles, pues dos de sus lados son iguales. \n");
         }
-    }   
+    }
 
-    return 0; 
 }

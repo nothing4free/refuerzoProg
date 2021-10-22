@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-int main() {
+void main() {
 
     // variables
     int partidosGanados;
@@ -27,5 +27,4 @@ int main() {
     puntosFinales = (partidosGanados * 3) + (partidosEmpatados * 1) + (partidosPerdidos * 0);
     printf("Puntuacion del equipo: %d \n", puntosFinales);
 
-    return 0;
 }

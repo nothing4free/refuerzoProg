@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main() {
+main() {
 
     // variables
     int edadHermano1;
@@ -25,5 +25,4 @@ int main() {
     // mostramos el resultado
     printf("La diferencia de edades es de %d anios. \n", diferencia);
 
-    return 0;
 }

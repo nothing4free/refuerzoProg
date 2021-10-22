@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main() {
+void main() {
 
     // variables
     int numero;
@@ -30,5 +30,4 @@ int main() {
         printf("ERROR: El numero tiene que estar entre 100 y 999. \n");
     }
 
-    return 0;
 }

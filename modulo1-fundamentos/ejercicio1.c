@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main() {
+void main() {
     // variables: numero
     int numero;
 
@@ -16,5 +16,4 @@ int main() {
     } else {
         printf("El numero %d es impar. \n", numero);
     }
-    return 0;
 }

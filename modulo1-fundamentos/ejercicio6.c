@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-int main() {
+main() {
 
     // variables
     int correctas;
@@ -30,5 +30,4 @@ int main() {
     // mostramos la nota por pantalla.
     printf("La nota del examen es: %d", nota);
 
-    return 0;
 }
