@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main() {
+void main() {
     
     // variables
     int edad;
@@ -27,7 +27,5 @@ int main() {
     // mostramos por pantalla los resultados
     printf("La cantidad de personas mayores de edad es: %d \n", mayores);
     printf("La cantidad de personas menores de edad es: %d \n", menores);
-
-    return 0;
 
 }

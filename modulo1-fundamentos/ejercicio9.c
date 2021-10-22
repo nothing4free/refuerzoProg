@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main() {
+void main() {
 
     // variables
     int numero;
@@ -24,8 +24,6 @@ int main() {
 
         } else {
             printf("ERROR: el numero tiene que ser entero y diferente de 0.\n");
-            break;
         }
     }
-    return 0;
 }
